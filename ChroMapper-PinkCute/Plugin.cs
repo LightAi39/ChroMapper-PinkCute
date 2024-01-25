@@ -17,6 +17,7 @@ namespace ChroMapper_PinkCute
     public class Plugin
     {
 
+
         public GameObject _notePrefab;
         public Sprite sprite;
 
